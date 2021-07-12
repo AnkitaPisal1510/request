@@ -1,0 +1,12 @@
+{
+    "id": "2405",
+    "parent_exercise_id": "2405",
+    "name": " Debug  Code",
+    "slug": "dictionary__DebugCode/intro",
+    "sequence_num": 9000,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Debug  Code\\n Ab hum dictionary se related code ko debug karenge. \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/intro.md"
+}
